@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+    input{
+        width: 500px;
+        height: 30px;
+        border-radius: 3px;
+}
+button{
+        width: 100px;
+        height: 30px;
+        color: white;
+        background-color: #57a0d3;
+}
+img{
+        width: 20px;
+        height: 20px;
+}
+.ulala{
+        width: 175px;
+        height: 30px;
+}
